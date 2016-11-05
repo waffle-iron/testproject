@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/marbau69/testproject.png?label=ready&title=Ready)](https://waffle.io/marbau69/testproject)
 # testproject
 A lua project to carry out some GitHub testing.
 
